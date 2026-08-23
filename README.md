@@ -4,7 +4,7 @@
 Currently taking CSC-134 and getting ready to learn C++!
 
 ## My Foo (special interest) 🎯
-I like to collect Pokemon cards (and really all things Pokemon)
+I like to collect Pokemon cards (and really all things Pokemon).
 I also like to play video games and going on hikes with friends
 
 ## Currently Learning
