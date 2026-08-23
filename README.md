@@ -1,4 +1,4 @@
-# Hi, I'm [Nick Summers] 👋
+# Hi, I'm Nick Summers 👋
 
 ## About Me
 Currently taking CSC-134 and getting ready to learn C++!
