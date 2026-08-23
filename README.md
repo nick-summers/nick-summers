@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Nick Summers] 👋
 
-<!--
-**nick-summers/nick-summers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-134 and getting ready to learn C++!
 
-Here are some ideas to get you started:
+## My Foo (special interest) 🎯
+I like to collect Pokemon cards (and really all things Pokemon)
+I also like to play video games and going on hikes with friends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C++
+
+## Fun Fact
+My favorite color is purple
+
+## Find Me
+- 📫 Right here on GitHub!
