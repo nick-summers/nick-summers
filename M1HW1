@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string showName = "Mr. Robot";
+    int yearReleased = 2015;
+    double rating = 8.5;
+
+    cout << "A show that I enjoy is " << showName << "." << endl;
+    cout << "It first came out in " << yearReleased << "." << endl;
+    cout << "It has a rating of " << rating << " out of 10." << endl;
+
+    cout << endl;
+    cout << "One of my favorite things about " << showName << " is its story." << endl;
+    cout << "The main character, Elliot, is a very interesting and complex character." << endl;
+    cout << "One quote from the show is: \"Are you a one or a zero?\"" << endl;
+    cout << "I also like the show's music and cinematography." << endl;
+    cout << "Overall, " << showName << " is one of my favorite shows because it is unique and I enjoy the characters." << endl;
+
+    return 0;
+}
