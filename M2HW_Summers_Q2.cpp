@@ -1,3 +1,10 @@
+/*
+CSC 134
+M2HW1 - Gold
+Nick Summers
+4 Oct 26
+*/
+
 // This program is used by General Crates, INC. to calculate
 // the volume, cost, customer charge, and the profit of a crate
 // of any size, It calculates this date from user input, which
