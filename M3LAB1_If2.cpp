@@ -13,7 +13,7 @@ int main() {
   // You should run it, and test it by typing in different values.
   // Example test values: 1, 2, 3, banana (try all of them)
 
-  // declare the variable we need
+  // declare the variable(s) we need
   int choice; 
 
   // ask the question
