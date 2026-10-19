@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
     // Ask the user to enter their grade
-    cout << "Enter your numerical grade" << endl;
+    cout << "Enter your numerical grade:" << endl;
     int grade;
     cin >> grade;
 
