@@ -1,6 +1,6 @@
 // CSC 134
 // M5T2
-// Nick Summers
+// Nick Summers & AI Nav GPT
 // 11/8/26
 
 #include <iostream>
