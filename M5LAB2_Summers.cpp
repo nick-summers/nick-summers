@@ -1,3 +1,7 @@
+// CSC 134
+// M5LAB2
+// Nick Summers
+// 11/15/26
 
 #include <iostream>
 using namespace std;
